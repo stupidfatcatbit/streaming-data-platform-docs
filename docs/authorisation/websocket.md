@@ -3,7 +3,7 @@ sidebar_position: 3
 ---
 
 # Authenticating Websockets
-
+tenadex//trade 
 When it comes to authenticating websockets the token can be included only in the following manner:
 
  `wss://streaming.bitquery.io/graphql?token=ory*at*..` with the token attached to the URL. The request should include only two headers:
